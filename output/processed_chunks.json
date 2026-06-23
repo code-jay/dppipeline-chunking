@@ -10,7 +10,7 @@
     "chunk_length": 141,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_1",
@@ -23,7 +23,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_2",
@@ -36,7 +36,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_3",
@@ -49,7 +49,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_4",
@@ -62,7 +62,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_5",
@@ -75,7 +75,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_6",
@@ -88,7 +88,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_7",
@@ -101,7 +101,7 @@
     "chunk_length": 429,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_8",
@@ -114,7 +114,7 @@
     "chunk_length": 426,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_9",
@@ -127,7 +127,7 @@
     "chunk_length": 995,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_10",
@@ -140,7 +140,7 @@
     "chunk_length": 635,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_11",
@@ -153,7 +153,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_12",
@@ -166,7 +166,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_13",
@@ -179,7 +179,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_14",
@@ -192,7 +192,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_15",
@@ -205,7 +205,7 @@
     "chunk_length": 605,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_16",
@@ -218,7 +218,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_17",
@@ -231,7 +231,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_18",
@@ -244,7 +244,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_19",
@@ -257,7 +257,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_20",
@@ -270,7 +270,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_21",
@@ -283,7 +283,7 @@
     "chunk_length": 611,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_22",
@@ -296,7 +296,7 @@
     "chunk_length": 134,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_23",
@@ -309,7 +309,7 @@
     "chunk_length": 426,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_24",
@@ -322,7 +322,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_25",
@@ -335,7 +335,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_26",
@@ -348,7 +348,7 @@
     "chunk_length": 480,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_27",
@@ -361,7 +361,7 @@
     "chunk_length": 992,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_28",
@@ -374,7 +374,7 @@
     "chunk_length": 600,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_29",
@@ -387,7 +387,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_30",
@@ -400,7 +400,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_31",
@@ -413,7 +413,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_32",
@@ -426,7 +426,7 @@
     "chunk_length": 794,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_33",
@@ -439,7 +439,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_34",
@@ -452,7 +452,7 @@
     "chunk_length": 736,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_35",
@@ -465,7 +465,7 @@
     "chunk_length": 55,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_36",
@@ -478,7 +478,7 @@
     "chunk_length": 379,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_37",
@@ -491,7 +491,7 @@
     "chunk_length": 109,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_38",
@@ -504,7 +504,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_39",
@@ -517,7 +517,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_40",
@@ -530,7 +530,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_41",
@@ -543,7 +543,7 @@
     "chunk_length": 568,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_42",
@@ -556,7 +556,7 @@
     "chunk_length": 147,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_43",
@@ -569,7 +569,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_44",
@@ -582,7 +582,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_45",
@@ -595,7 +595,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_46",
@@ -608,7 +608,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_47",
@@ -621,7 +621,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_48",
@@ -634,7 +634,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_49",
@@ -647,7 +647,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_50",
@@ -660,7 +660,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_51",
@@ -673,7 +673,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_52",
@@ -686,7 +686,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_53",
@@ -699,7 +699,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_54",
@@ -712,7 +712,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_55",
@@ -725,7 +725,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_56",
@@ -738,7 +738,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_57",
@@ -751,7 +751,7 @@
     "chunk_length": 680,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_58",
@@ -764,7 +764,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_59",
@@ -777,7 +777,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_60",
@@ -790,7 +790,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_61",
@@ -803,7 +803,7 @@
     "chunk_length": 410,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_62",
@@ -816,7 +816,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_63",
@@ -829,7 +829,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_64",
@@ -842,7 +842,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_65",
@@ -855,7 +855,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_66",
@@ -868,7 +868,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_67",
@@ -881,7 +881,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_68",
@@ -894,7 +894,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_69",
@@ -907,7 +907,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_70",
@@ -920,7 +920,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_71",
@@ -933,7 +933,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_72",
@@ -946,7 +946,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_73",
@@ -959,7 +959,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_74",
@@ -972,7 +972,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_75",
@@ -985,7 +985,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_76",
@@ -998,7 +998,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_77",
@@ -1011,7 +1011,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_78",
@@ -1024,7 +1024,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_79",
@@ -1037,7 +1037,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_80",
@@ -1050,7 +1050,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_81",
@@ -1063,7 +1063,7 @@
     "chunk_length": 683,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_82",
@@ -1076,7 +1076,7 @@
     "chunk_length": 3,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_83",
@@ -1089,7 +1089,7 @@
     "chunk_length": 966,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_84",
@@ -1102,7 +1102,7 @@
     "chunk_length": 207,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_85",
@@ -1115,7 +1115,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_86",
@@ -1128,7 +1128,7 @@
     "chunk_length": 572,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_87",
@@ -1141,7 +1141,7 @@
     "chunk_length": 951,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_88",
@@ -1154,7 +1154,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_89",
@@ -1167,7 +1167,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_90",
@@ -1180,7 +1180,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_91",
@@ -1193,7 +1193,7 @@
     "chunk_length": 478,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_92",
@@ -1206,7 +1206,7 @@
     "chunk_length": 567,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_93",
@@ -1219,7 +1219,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_94",
@@ -1232,7 +1232,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_95",
@@ -1245,7 +1245,7 @@
     "chunk_length": 710,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_96",
@@ -1258,7 +1258,7 @@
     "chunk_length": 30,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_97",
@@ -1271,7 +1271,7 @@
     "chunk_length": 728,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_98",
@@ -1284,7 +1284,7 @@
     "chunk_length": 726,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_99",
@@ -1297,7 +1297,7 @@
     "chunk_length": 742,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_100",
@@ -1310,7 +1310,7 @@
     "chunk_length": 304,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_101",
@@ -1323,7 +1323,7 @@
     "chunk_length": 569,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_102",
@@ -1336,7 +1336,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_103",
@@ -1349,7 +1349,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_104",
@@ -1362,7 +1362,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_105",
@@ -1375,7 +1375,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_106",
@@ -1388,7 +1388,7 @@
     "chunk_length": 324,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_107",
@@ -1401,7 +1401,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_108",
@@ -1414,7 +1414,7 @@
     "chunk_length": 763,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_109",
@@ -1427,7 +1427,7 @@
     "chunk_length": 83,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_110",
@@ -1440,7 +1440,7 @@
     "chunk_length": 320,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_111",
@@ -1453,7 +1453,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_112",
@@ -1466,7 +1466,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_113",
@@ -1479,7 +1479,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_114",
@@ -1492,7 +1492,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_115",
@@ -1505,7 +1505,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_116",
@@ -1518,7 +1518,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_117",
@@ -1531,7 +1531,7 @@
     "chunk_length": 134,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_118",
@@ -1544,7 +1544,7 @@
     "chunk_length": 228,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_119",
@@ -1557,7 +1557,7 @@
     "chunk_length": 121,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_120",
@@ -1570,7 +1570,7 @@
     "chunk_length": 222,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_121",
@@ -1583,7 +1583,7 @@
     "chunk_length": 766,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_122",
@@ -1596,7 +1596,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_123",
@@ -1609,7 +1609,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_124",
@@ -1622,7 +1622,7 @@
     "chunk_length": 154,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_125",
@@ -1635,7 +1635,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_126",
@@ -1648,7 +1648,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_127",
@@ -1661,7 +1661,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_128",
@@ -1674,7 +1674,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_129",
@@ -1687,7 +1687,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_130",
@@ -1700,7 +1700,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_131",
@@ -1713,7 +1713,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_132",
@@ -1726,7 +1726,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_133",
@@ -1739,7 +1739,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_134",
@@ -1752,7 +1752,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_135",
@@ -1765,7 +1765,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_136",
@@ -1778,7 +1778,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_137",
@@ -1791,7 +1791,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_138",
@@ -1804,7 +1804,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_139",
@@ -1817,7 +1817,7 @@
     "chunk_length": 757,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_140",
@@ -1830,7 +1830,7 @@
     "chunk_length": 77,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_141",
@@ -1843,7 +1843,7 @@
     "chunk_length": 756,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_142",
@@ -1856,7 +1856,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_143",
@@ -1869,7 +1869,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "Sup_TSP_v061226_chunk_144",
@@ -1882,7 +1882,7 @@
     "chunk_length": 246,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/support/Sup_TSP_v061226.pdf",
-    "processed_at": "2026-06-23T18:28:19.994159"
+    "processed_at": "2026-06-23T18:30:07.727597"
   },
   {
     "chunk_id": "handbook_chunk_0",
@@ -1895,7 +1895,7 @@
     "chunk_length": 151,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_1",
@@ -1908,7 +1908,7 @@
     "chunk_length": 450,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_2",
@@ -1921,7 +1921,7 @@
     "chunk_length": 1169,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_3",
@@ -1934,7 +1934,7 @@
     "chunk_length": 918,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_4",
@@ -1947,7 +1947,7 @@
     "chunk_length": 286,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_5",
@@ -1960,7 +1960,7 @@
     "chunk_length": 224,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_6",
@@ -1973,7 +1973,7 @@
     "chunk_length": 201,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_7",
@@ -1986,7 +1986,7 @@
     "chunk_length": 108,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_8",
@@ -1999,7 +1999,7 @@
     "chunk_length": 275,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_9",
@@ -2012,7 +2012,7 @@
     "chunk_length": 574,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_10",
@@ -2025,7 +2025,7 @@
     "chunk_length": 456,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_11",
@@ -2038,7 +2038,7 @@
     "chunk_length": 937,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_12",
@@ -2051,7 +2051,7 @@
     "chunk_length": 903,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_13",
@@ -2064,7 +2064,7 @@
     "chunk_length": 198,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_14",
@@ -2077,7 +2077,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_15",
@@ -2090,7 +2090,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_16",
@@ -2103,7 +2103,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_17",
@@ -2116,7 +2116,7 @@
     "chunk_length": 528,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_18",
@@ -2129,7 +2129,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_19",
@@ -2142,7 +2142,7 @@
     "chunk_length": 797,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_20",
@@ -2155,7 +2155,7 @@
     "chunk_length": 191,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_21",
@@ -2168,7 +2168,7 @@
     "chunk_length": 1179,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_22",
@@ -2181,7 +2181,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_23",
@@ -2194,7 +2194,7 @@
     "chunk_length": 701,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_24",
@@ -2207,7 +2207,7 @@
     "chunk_length": 21,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_25",
@@ -2220,7 +2220,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_26",
@@ -2233,7 +2233,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_27",
@@ -2246,7 +2246,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_28",
@@ -2259,7 +2259,7 @@
     "chunk_length": 402,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_29",
@@ -2272,7 +2272,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_30",
@@ -2285,7 +2285,7 @@
     "chunk_length": 789,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_31",
@@ -2298,7 +2298,7 @@
     "chunk_length": 109,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_32",
@@ -2311,7 +2311,7 @@
     "chunk_length": 943,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_33",
@@ -2324,7 +2324,7 @@
     "chunk_length": 837,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_34",
@@ -2337,7 +2337,7 @@
     "chunk_length": 694,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_35",
@@ -2350,7 +2350,7 @@
     "chunk_length": 186,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_36",
@@ -2363,7 +2363,7 @@
     "chunk_length": 188,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_37",
@@ -2376,7 +2376,7 @@
     "chunk_length": 303,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_38",
@@ -2389,7 +2389,7 @@
     "chunk_length": 754,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_39",
@@ -2402,7 +2402,7 @@
     "chunk_length": 249,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_40",
@@ -2415,7 +2415,7 @@
     "chunk_length": 174,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_41",
@@ -2428,7 +2428,7 @@
     "chunk_length": 260,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_42",
@@ -2441,7 +2441,7 @@
     "chunk_length": 215,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_43",
@@ -2454,7 +2454,7 @@
     "chunk_length": 534,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_44",
@@ -2467,7 +2467,7 @@
     "chunk_length": 742,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_45",
@@ -2480,7 +2480,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_46",
@@ -2493,7 +2493,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_47",
@@ -2506,7 +2506,7 @@
     "chunk_length": 148,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_48",
@@ -2519,7 +2519,7 @@
     "chunk_length": 266,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_49",
@@ -2532,7 +2532,7 @@
     "chunk_length": 327,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_50",
@@ -2545,7 +2545,7 @@
     "chunk_length": 397,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_51",
@@ -2558,7 +2558,7 @@
     "chunk_length": 712,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_52",
@@ -2571,7 +2571,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_53",
@@ -2584,7 +2584,7 @@
     "chunk_length": 589,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_54",
@@ -2597,7 +2597,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_55",
@@ -2610,7 +2610,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_56",
@@ -2623,7 +2623,7 @@
     "chunk_length": 468,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_57",
@@ -2636,7 +2636,7 @@
     "chunk_length": 545,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_58",
@@ -2649,7 +2649,7 @@
     "chunk_length": 1016,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_59",
@@ -2662,7 +2662,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_60",
@@ -2675,7 +2675,7 @@
     "chunk_length": 582,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_61",
@@ -2688,7 +2688,7 @@
     "chunk_length": 154,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_62",
@@ -2701,7 +2701,7 @@
     "chunk_length": 224,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_63",
@@ -2714,7 +2714,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_64",
@@ -2727,7 +2727,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_65",
@@ -2740,7 +2740,7 @@
     "chunk_length": 632,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_66",
@@ -2753,7 +2753,7 @@
     "chunk_length": 656,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_67",
@@ -2766,7 +2766,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_68",
@@ -2779,7 +2779,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_69",
@@ -2792,7 +2792,7 @@
     "chunk_length": 645,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_70",
@@ -2805,7 +2805,7 @@
     "chunk_length": 408,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_71",
@@ -2818,7 +2818,7 @@
     "chunk_length": 842,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_72",
@@ -2831,7 +2831,7 @@
     "chunk_length": 596,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_73",
@@ -2844,7 +2844,7 @@
     "chunk_length": 1167,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_74",
@@ -2857,7 +2857,7 @@
     "chunk_length": 506,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_75",
@@ -2870,7 +2870,7 @@
     "chunk_length": 494,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_76",
@@ -2883,7 +2883,7 @@
     "chunk_length": 387,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_77",
@@ -2896,7 +2896,7 @@
     "chunk_length": 113,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_78",
@@ -2909,7 +2909,7 @@
     "chunk_length": 211,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_79",
@@ -2922,7 +2922,7 @@
     "chunk_length": 573,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_80",
@@ -2935,7 +2935,7 @@
     "chunk_length": 310,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_81",
@@ -2948,7 +2948,7 @@
     "chunk_length": 140,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_82",
@@ -2961,7 +2961,7 @@
     "chunk_length": 163,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_83",
@@ -2974,7 +2974,7 @@
     "chunk_length": 195,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_84",
@@ -2987,7 +2987,7 @@
     "chunk_length": 155,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_85",
@@ -3000,7 +3000,7 @@
     "chunk_length": 177,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_86",
@@ -3013,7 +3013,7 @@
     "chunk_length": 687,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_87",
@@ -3026,7 +3026,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_88",
@@ -3039,7 +3039,7 @@
     "chunk_length": 687,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_89",
@@ -3052,7 +3052,7 @@
     "chunk_length": 7,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_90",
@@ -3065,7 +3065,7 @@
     "chunk_length": 313,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_91",
@@ -3078,7 +3078,7 @@
     "chunk_length": 730,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_92",
@@ -3091,7 +3091,7 @@
     "chunk_length": 456,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_93",
@@ -3104,7 +3104,7 @@
     "chunk_length": 632,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_94",
@@ -3117,7 +3117,7 @@
     "chunk_length": 359,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_95",
@@ -3130,7 +3130,7 @@
     "chunk_length": 836,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_96",
@@ -3143,7 +3143,7 @@
     "chunk_length": 779,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_97",
@@ -3156,7 +3156,7 @@
     "chunk_length": 198,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_98",
@@ -3169,7 +3169,7 @@
     "chunk_length": 620,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_99",
@@ -3182,7 +3182,7 @@
     "chunk_length": 601,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_100",
@@ -3195,7 +3195,7 @@
     "chunk_length": 584,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_101",
@@ -3208,7 +3208,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_102",
@@ -3221,7 +3221,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_103",
@@ -3234,7 +3234,7 @@
     "chunk_length": 409,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "handbook_chunk_104",
@@ -3247,7 +3247,7 @@
     "chunk_length": 125,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/hr/handbook.pdf",
-    "processed_at": "2026-06-23T18:28:20.931082"
+    "processed_at": "2026-06-23T18:30:08.671768"
   },
   {
     "chunk_id": "Leave-Policy_chunk_0",
@@ -3260,7 +3260,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_1",
@@ -3273,7 +3273,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_2",
@@ -3286,7 +3286,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_3",
@@ -3299,7 +3299,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_4",
@@ -3312,7 +3312,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_5",
@@ -3325,7 +3325,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_6",
@@ -3338,7 +3338,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_7",
@@ -3351,7 +3351,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_8",
@@ -3364,7 +3364,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_9",
@@ -3377,7 +3377,7 @@
     "chunk_length": 795,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "Leave-Policy_chunk_10",
@@ -3390,7 +3390,7 @@
     "chunk_length": 115,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/hr/Leave-Policy.pdf",
-    "processed_at": "2026-06-23T18:28:20.988631"
+    "processed_at": "2026-06-23T18:30:08.729992"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_0",
@@ -3403,7 +3403,7 @@
     "chunk_length": 102,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_1",
@@ -3416,7 +3416,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_2",
@@ -3429,7 +3429,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_3",
@@ -3442,7 +3442,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_4",
@@ -3455,7 +3455,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_5",
@@ -3468,7 +3468,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_6",
@@ -3481,7 +3481,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_7",
@@ -3494,7 +3494,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_8",
@@ -3507,7 +3507,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_9",
@@ -3520,7 +3520,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_10",
@@ -3533,7 +3533,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_11",
@@ -3546,7 +3546,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_12",
@@ -3559,7 +3559,7 @@
     "chunk_length": 699,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_13",
@@ -3572,7 +3572,7 @@
     "chunk_length": 19,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_14",
@@ -3585,7 +3585,7 @@
     "chunk_length": 1118,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_15",
@@ -3598,7 +3598,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_16",
@@ -3611,7 +3611,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_17",
@@ -3624,7 +3624,7 @@
     "chunk_length": 578,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_18",
@@ -3637,7 +3637,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_19",
@@ -3650,7 +3650,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_20",
@@ -3663,7 +3663,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_21",
@@ -3676,7 +3676,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_22",
@@ -3689,7 +3689,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_23",
@@ -3702,7 +3702,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_24",
@@ -3715,7 +3715,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_25",
@@ -3728,7 +3728,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_26",
@@ -3741,7 +3741,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_27",
@@ -3754,7 +3754,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_28",
@@ -3767,7 +3767,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_29",
@@ -3780,7 +3780,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_30",
@@ -3793,7 +3793,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_31",
@@ -3806,7 +3806,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_32",
@@ -3819,7 +3819,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_33",
@@ -3832,7 +3832,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_34",
@@ -3845,7 +3845,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_35",
@@ -3858,7 +3858,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_36",
@@ -3871,7 +3871,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_37",
@@ -3884,7 +3884,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_38",
@@ -3897,7 +3897,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_39",
@@ -3910,7 +3910,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_40",
@@ -3923,7 +3923,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_41",
@@ -3936,7 +3936,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_42",
@@ -3949,7 +3949,7 @@
     "chunk_length": 200,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_43",
@@ -3962,7 +3962,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_44",
@@ -3975,7 +3975,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_45",
@@ -3988,7 +3988,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_46",
@@ -4001,7 +4001,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_47",
@@ -4014,7 +4014,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_48",
@@ -4027,7 +4027,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_49",
@@ -4040,7 +4040,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_50",
@@ -4053,7 +4053,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_51",
@@ -4066,7 +4066,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_52",
@@ -4079,7 +4079,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_53",
@@ -4092,7 +4092,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_54",
@@ -4105,7 +4105,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_55",
@@ -4118,7 +4118,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_56",
@@ -4131,7 +4131,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_57",
@@ -4144,7 +4144,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_58",
@@ -4157,7 +4157,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_59",
@@ -4170,7 +4170,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_60",
@@ -4183,7 +4183,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_61",
@@ -4196,7 +4196,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_62",
@@ -4209,7 +4209,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_63",
@@ -4222,7 +4222,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_64",
@@ -4235,7 +4235,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_65",
@@ -4248,7 +4248,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_66",
@@ -4261,7 +4261,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_67",
@@ -4274,7 +4274,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_68",
@@ -4287,7 +4287,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_69",
@@ -4300,7 +4300,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_70",
@@ -4313,7 +4313,7 @@
     "chunk_length": 631,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_71",
@@ -4326,7 +4326,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_72",
@@ -4339,7 +4339,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_73",
@@ -4352,7 +4352,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_74",
@@ -4365,7 +4365,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_75",
@@ -4378,7 +4378,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_76",
@@ -4391,7 +4391,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_77",
@@ -4404,7 +4404,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_78",
@@ -4417,7 +4417,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_79",
@@ -4430,7 +4430,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_80",
@@ -4443,7 +4443,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_81",
@@ -4456,7 +4456,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_82",
@@ -4469,7 +4469,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_83",
@@ -4482,7 +4482,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_84",
@@ -4495,7 +4495,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_85",
@@ -4508,7 +4508,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_86",
@@ -4521,7 +4521,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_87",
@@ -4534,7 +4534,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_88",
@@ -4547,7 +4547,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_89",
@@ -4560,7 +4560,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_90",
@@ -4573,7 +4573,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_91",
@@ -4586,7 +4586,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_92",
@@ -4599,7 +4599,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_93",
@@ -4612,7 +4612,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_94",
@@ -4625,7 +4625,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_95",
@@ -4638,7 +4638,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_96",
@@ -4651,7 +4651,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_97",
@@ -4664,7 +4664,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_98",
@@ -4677,7 +4677,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_99",
@@ -4690,7 +4690,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_100",
@@ -4703,7 +4703,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_101",
@@ -4716,7 +4716,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_102",
@@ -4729,7 +4729,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_103",
@@ -4742,7 +4742,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_104",
@@ -4755,7 +4755,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_105",
@@ -4768,7 +4768,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_106",
@@ -4781,7 +4781,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_107",
@@ -4794,7 +4794,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_108",
@@ -4807,7 +4807,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_109",
@@ -4820,7 +4820,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_110",
@@ -4833,7 +4833,7 @@
     "chunk_length": 708,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_111",
@@ -4846,7 +4846,7 @@
     "chunk_length": 27,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_112",
@@ -4859,7 +4859,7 @@
     "chunk_length": 711,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_113",
@@ -4872,7 +4872,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_114",
@@ -4885,7 +4885,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_115",
@@ -4898,7 +4898,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_116",
@@ -4911,7 +4911,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_117",
@@ -4924,7 +4924,7 @@
     "chunk_length": 313,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_118",
@@ -4937,7 +4937,7 @@
     "chunk_length": 841,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_119",
@@ -4950,7 +4950,7 @@
     "chunk_length": 1015,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_120",
@@ -4963,7 +4963,7 @@
     "chunk_length": 690,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_121",
@@ -4976,7 +4976,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_122",
@@ -4989,7 +4989,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_123",
@@ -5002,7 +5002,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_124",
@@ -5015,7 +5015,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_125",
@@ -5028,7 +5028,7 @@
     "chunk_length": 291,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_126",
@@ -5041,7 +5041,7 @@
     "chunk_length": 631,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_127",
@@ -5054,7 +5054,7 @@
     "chunk_length": 1082,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_128",
@@ -5067,7 +5067,7 @@
     "chunk_length": 230,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_129",
@@ -5080,7 +5080,7 @@
     "chunk_length": 644,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_130",
@@ -5093,7 +5093,7 @@
     "chunk_length": 974,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_131",
@@ -5106,7 +5106,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_132",
@@ -5119,7 +5119,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_133",
@@ -5132,7 +5132,7 @@
     "chunk_length": 323,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_134",
@@ -5145,7 +5145,7 @@
     "chunk_length": 483,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_135",
@@ -5158,7 +5158,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_136",
@@ -5171,7 +5171,7 @@
     "chunk_length": 796,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_137",
@@ -5184,7 +5184,7 @@
     "chunk_length": 116,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_138",
@@ -5197,7 +5197,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_139",
@@ -5210,7 +5210,7 @@
     "chunk_length": 633,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_140",
@@ -5223,7 +5223,7 @@
     "chunk_length": 189,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_141",
@@ -5236,7 +5236,7 @@
     "chunk_length": 133,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_142",
@@ -5249,7 +5249,7 @@
     "chunk_length": 133,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_143",
@@ -5262,7 +5262,7 @@
     "chunk_length": 177,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_144",
@@ -5275,7 +5275,7 @@
     "chunk_length": 552,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_145",
@@ -5288,7 +5288,7 @@
     "chunk_length": 336,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_146",
@@ -5301,7 +5301,7 @@
     "chunk_length": 107,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_147",
@@ -5314,7 +5314,7 @@
     "chunk_length": 274,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_148",
@@ -5327,7 +5327,7 @@
     "chunk_length": 147,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_149",
@@ -5340,7 +5340,7 @@
     "chunk_length": 129,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_150",
@@ -5353,7 +5353,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_151",
@@ -5366,7 +5366,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_152",
@@ -5379,7 +5379,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_153",
@@ -5392,7 +5392,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_154",
@@ -5405,7 +5405,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_155",
@@ -5418,7 +5418,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_156",
@@ -5431,7 +5431,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_157",
@@ -5444,7 +5444,7 @@
     "chunk_length": 522,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_158",
@@ -5457,7 +5457,7 @@
     "chunk_length": 896,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_159",
@@ -5470,7 +5470,7 @@
     "chunk_length": 439,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_160",
@@ -5483,7 +5483,7 @@
     "chunk_length": 156,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_161",
@@ -5496,7 +5496,7 @@
     "chunk_length": 340,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_162",
@@ -5509,7 +5509,7 @@
     "chunk_length": 734,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_163",
@@ -5522,7 +5522,7 @@
     "chunk_length": 232,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_164",
@@ -5535,7 +5535,7 @@
     "chunk_length": 522,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_165",
@@ -5548,7 +5548,7 @@
     "chunk_length": 105,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_166",
@@ -5561,7 +5561,7 @@
     "chunk_length": 548,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_167",
@@ -5574,7 +5574,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_168",
@@ -5587,7 +5587,7 @@
     "chunk_length": 798,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_169",
@@ -5600,7 +5600,7 @@
     "chunk_length": 109,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_170",
@@ -5613,7 +5613,7 @@
     "chunk_length": 1164,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "4S-India-Financial-and-Accounting-Procedures-Manual_chunk_171",
@@ -5626,7 +5626,7 @@
     "chunk_length": 274,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
-    "processed_at": "2026-06-23T18:28:22.059603"
+    "processed_at": "2026-06-23T18:30:09.800028"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_0",
@@ -5639,7 +5639,7 @@
     "chunk_length": 818,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_1",
@@ -5652,7 +5652,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_2",
@@ -5665,7 +5665,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_3",
@@ -5678,7 +5678,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_4",
@@ -5691,7 +5691,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_5",
@@ -5704,7 +5704,7 @@
     "chunk_length": 440,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_6",
@@ -5717,7 +5717,7 @@
     "chunk_length": 638,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_7",
@@ -5730,7 +5730,7 @@
     "chunk_length": 841,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_8",
@@ -5743,7 +5743,7 @@
     "chunk_length": 522,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_9",
@@ -5756,7 +5756,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_10",
@@ -5769,7 +5769,7 @@
     "chunk_length": 647,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_11",
@@ -5782,7 +5782,7 @@
     "chunk_length": 131,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_12",
@@ -5795,7 +5795,7 @@
     "chunk_length": 255,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_13",
@@ -5808,7 +5808,7 @@
     "chunk_length": 297,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_14",
@@ -5821,7 +5821,7 @@
     "chunk_length": 132,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_15",
@@ -5834,7 +5834,7 @@
     "chunk_length": 695,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_16",
@@ -5847,7 +5847,7 @@
     "chunk_length": 132,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_17",
@@ -5860,7 +5860,7 @@
     "chunk_length": 754,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_18",
@@ -5873,7 +5873,7 @@
     "chunk_length": 132,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_19",
@@ -5886,7 +5886,7 @@
     "chunk_length": 434,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_20",
@@ -5899,7 +5899,7 @@
     "chunk_length": 564,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_21",
@@ -5912,7 +5912,7 @@
     "chunk_length": 106,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_22",
@@ -5925,7 +5925,7 @@
     "chunk_length": 133,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_23",
@@ -5938,7 +5938,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_24",
@@ -5951,7 +5951,7 @@
     "chunk_length": 617,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_25",
@@ -5964,7 +5964,7 @@
     "chunk_length": 861,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_26",
@@ -5977,7 +5977,7 @@
     "chunk_length": 438,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_27",
@@ -5990,7 +5990,7 @@
     "chunk_length": 414,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_28",
@@ -6003,7 +6003,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_29",
@@ -6016,7 +6016,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_30",
@@ -6029,7 +6029,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_31",
@@ -6042,7 +6042,7 @@
     "chunk_length": 154,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_32",
@@ -6055,7 +6055,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_33",
@@ -6068,7 +6068,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_34",
@@ -6081,7 +6081,7 @@
     "chunk_length": 504,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_35",
@@ -6094,7 +6094,7 @@
     "chunk_length": 533,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_36",
@@ -6107,7 +6107,7 @@
     "chunk_length": 929,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_37",
@@ -6120,7 +6120,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_38",
@@ -6133,7 +6133,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_39",
@@ -6146,7 +6146,7 @@
     "chunk_length": 412,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_40",
@@ -6159,7 +6159,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_41",
@@ -6172,7 +6172,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_42",
@@ -6185,7 +6185,7 @@
     "chunk_length": 365,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_43",
@@ -6198,7 +6198,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_44",
@@ -6211,7 +6211,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_45",
@@ -6224,7 +6224,7 @@
     "chunk_length": 181,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_46",
@@ -6237,7 +6237,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_47",
@@ -6250,7 +6250,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_48",
@@ -6263,7 +6263,7 @@
     "chunk_length": 411,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_49",
@@ -6276,7 +6276,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_50",
@@ -6289,7 +6289,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_51",
@@ -6302,7 +6302,7 @@
     "chunk_length": 212,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_52",
@@ -6315,7 +6315,7 @@
     "chunk_length": 714,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_53",
@@ -6328,7 +6328,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_54",
@@ -6341,7 +6341,7 @@
     "chunk_length": 561,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_55",
@@ -6354,7 +6354,7 @@
     "chunk_length": 567,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_56",
@@ -6367,7 +6367,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_57",
@@ -6380,7 +6380,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_58",
@@ -6393,7 +6393,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_59",
@@ -6406,7 +6406,7 @@
     "chunk_length": 272,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_60",
@@ -6419,7 +6419,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_61",
@@ -6432,7 +6432,7 @@
     "chunk_length": 780,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_62",
@@ -6445,7 +6445,7 @@
     "chunk_length": 96,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_63",
@@ -6458,7 +6458,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_64",
@@ -6471,7 +6471,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_65",
@@ -6484,7 +6484,7 @@
     "chunk_length": 338,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_66",
@@ -6497,7 +6497,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_67",
@@ -6510,7 +6510,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_68",
@@ -6523,7 +6523,7 @@
     "chunk_length": 417,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_69",
@@ -6536,7 +6536,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_70",
@@ -6549,7 +6549,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_71",
@@ -6562,7 +6562,7 @@
     "chunk_length": 457,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_72",
@@ -6575,7 +6575,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_73",
@@ -6588,7 +6588,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_74",
@@ -6601,7 +6601,7 @@
     "chunk_length": 470,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_75",
@@ -6614,7 +6614,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_76",
@@ -6627,7 +6627,7 @@
     "chunk_length": 716,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_77",
@@ -6640,7 +6640,7 @@
     "chunk_length": 36,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_78",
@@ -6653,7 +6653,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_79",
@@ -6666,7 +6666,7 @@
     "chunk_length": 773,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_80",
@@ -6679,7 +6679,7 @@
     "chunk_length": 134,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_81",
@@ -6692,7 +6692,7 @@
     "chunk_length": 800,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_82",
@@ -6705,7 +6705,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_83",
@@ -6718,7 +6718,7 @@
     "chunk_length": 278,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_84",
@@ -6731,7 +6731,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_85",
@@ -6744,7 +6744,7 @@
     "chunk_length": 799,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_86",
@@ -6757,7 +6757,7 @@
     "chunk_length": 271,
     "chunking_strategy": "section+fixed",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_87",
@@ -6770,7 +6770,7 @@
     "chunk_length": 127,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "HerculesMCU_C_CodingGuidelines_chunk_88",
@@ -6783,7 +6783,7 @@
     "chunk_length": 184,
     "chunking_strategy": "section",
     "source_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf",
-    "processed_at": "2026-06-23T18:28:22.507915"
+    "processed_at": "2026-06-23T18:30:10.251892"
   },
   {
     "chunk_id": "googlr_chunk_0",
@@ -6796,6 +6796,6 @@
     "chunk_length": 7,
     "chunking_strategy": "fixed",
     "source_path": "enterprise-data/engineering/googlr.html",
-    "processed_at": "2026-06-23T18:28:22.526544"
+    "processed_at": "2026-06-23T18:30:10.269644"
   }
 ]

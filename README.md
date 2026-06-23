@@ -1,51 +1,71 @@
-# Mini Enterprise Knowledge Repository
+# Enterprise Knowledge Repository
 
-This project demonstrates a small enterprise knowledge repository with documents grouped by department and a scanner script that generates a document inventory.
+A production-ready **Enterprise Document Processing Pipeline** for
+building **Retrieval-Augmented Generation (RAG)** and **Enterprise AI
+Knowledge Assistants**.
 
-## Folder Structure
+## Architecture
 
-```text
-enterprise-data/
-├── hr/
-│   ├── leave_policy.pdf
-│   ├── handbook.pdf
-├── finance/
-│   ├── expense_policy.pdf
-├── engineering/
-│   ├── coding_guidelines.pdf
-├── support/
-│   ├── faq.docx
-└── metadata.json
+``` text
+Enterprise Documents
+        ↓
+Document Scanner
+        ↓
+Metadata Extraction
+        ↓
+Text Extraction
+        ↓
+Cleaning & Normalization
+        ↓
+Intelligent Chunking
+        ↓
+processed_chunks.json
+        ↓
+Embeddings
+        ↓
+PostgreSQL + pgvector
+        ↓
+Semantic Retrieval
+        ↓
+Enterprise RAG
 ```
 
-## Setup
+## Project Structure
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+``` text
+Enterprise-Knowledge-Repository/
+├── enterprise-data/
+├── processors/
+├── output/
+├── scan_documents.py
+├── process_documents.py
+├── chunking_strategies.py
+├── requirements.txt
+└── README.md
 ```
 
-## Run
+## Features
 
-```bash
-python scan_documents.py
-```
+-   PDF/DOCX/TXT/HTML processing
+-   Metadata extraction
+-   Intelligent chunking
+-   Hybrid chunking
+-   JSON output
 
-## Output
+## Chunking Strategies
 
-The script prints a table with:
+-   Section Chunking
+-   Paragraph Chunking
+-   Table Chunking
+-   Code Chunking
+-   Fixed Size Chunking
 
-- Document Name
-- Type
-- Size
-- Pages
-- Department
-- Created Date
-- Modified Date
+## Next Phase
 
-It also creates:
+processed_chunks.json → Embeddings → PostgreSQL + pgvector → Semantic
+Search → RAG
 
-```text
-document_inventory.json
-```
+## Tech Stack
+
+Python, PyPDF, python-docx, BeautifulSoup4, PostgreSQL, pgvector,
+FastAPI
