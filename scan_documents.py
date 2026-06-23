@@ -25,8 +25,7 @@ METADATA_FILE = DATA_DIR / "metadata.json"
 
 BASE_DIR = DATA_DIR
 OUTPUT_JSON = OUTPUT_DIR / "document_inventory.json"
-SUPPORTED_EXTENSIONS = {".pdf", ".docx"}
-
+SUPPORTED_EXTENSIONS = [".pdf", ".docx", ".txt", ".html", ".htm"]
 
 def format_size(size_bytes: int) -> str:
     if size_bytes < 1024:
