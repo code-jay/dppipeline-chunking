@@ -1,0 +1,9 @@
+Document Name         | Type | Size     | Pages | Department  | Created Date        | Modified Date      
+----------------------+------+----------+-------+-------------+---------------------+--------------------
+coding_guidelines.pdf | PDF  | 1.74 KB  | 1     | engineering | 2026-06-23 06:23:42 | 2026-06-23 06:23:42
+expense_policy.pdf    | PDF  | 1.71 KB  | 1     | finance     | 2026-06-23 06:23:42 | 2026-06-23 06:23:42
+handbook.pdf          | PDF  | 1.73 KB  | 1     | hr          | 2026-06-23 06:23:42 | 2026-06-23 06:23:42
+leave_policy.pdf      | PDF  | 1.75 KB  | 1     | hr          | 2026-06-23 06:23:42 | 2026-06-23 06:23:42
+faq.docx              | DOCX | 35.92 KB | 1     | support     | 2026-06-23 06:23:42 | 2026-06-23 06:23:42
+
+Inventory saved to: /mnt/data/enterprise_knowledge_repo/document_inventory.json

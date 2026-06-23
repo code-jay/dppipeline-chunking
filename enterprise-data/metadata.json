@@ -1,0 +1,12 @@
+{
+  "repository_name": "Mini Enterprise Knowledge Repository",
+  "version": "1.0",
+  "departments": [
+    "hr",
+    "finance",
+    "engineering",
+    "support"
+  ],
+  "created_for": "Enterprise AI / RAG learning project",
+  "notes": "Use scan_documents.py to generate inventory for the repository."
+}

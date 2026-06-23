@@ -1,0 +1,57 @@
+[
+  {
+    "document_name": "HerculesMCU_C_CodingGuidelines.pdf",
+    "type": "PDF",
+    "size": "574.07 KB",
+    "size_bytes": 587849,
+    "pages": 33,
+    "department": "engineering",
+    "created_date": "2026-06-23 12:31:30",
+    "modified_date": "2026-06-23 12:31:29",
+    "relative_path": "enterprise-data/engineering/HerculesMCU_C_CodingGuidelines.pdf"
+  },
+  {
+    "document_name": "4S-India-Financial-and-Accounting-Procedures-Manual.pdf",
+    "type": "PDF",
+    "size": "987.74 KB",
+    "size_bytes": 1011442,
+    "pages": 66,
+    "department": "finance",
+    "created_date": "2026-06-23 12:35:33",
+    "modified_date": "2026-06-23 12:35:29",
+    "relative_path": "enterprise-data/finance/4S-India-Financial-and-Accounting-Procedures-Manual.pdf"
+  },
+  {
+    "document_name": "Leave-Policy.pdf",
+    "type": "PDF",
+    "size": "39.53 KB",
+    "size_bytes": 40480,
+    "pages": 4,
+    "department": "hr",
+    "created_date": "2026-06-23 12:28:47",
+    "modified_date": "2026-06-23 12:28:33",
+    "relative_path": "enterprise-data/hr/Leave-Policy.pdf"
+  },
+  {
+    "document_name": "handbook.pdf",
+    "type": "PDF",
+    "size": "1.26 MB",
+    "size_bytes": 1325374,
+    "pages": 35,
+    "department": "hr",
+    "created_date": "2026-06-23 12:29:19",
+    "modified_date": "2026-06-23 12:29:12",
+    "relative_path": "enterprise-data/hr/handbook.pdf"
+  },
+  {
+    "document_name": "Sup_TSP_v061226.pdf",
+    "type": "PDF",
+    "size": "516.11 KB",
+    "size_bytes": 528492,
+    "pages": 32,
+    "department": "support",
+    "created_date": "2026-06-23 12:38:17",
+    "modified_date": "2026-06-23 12:38:12",
+    "relative_path": "enterprise-data/support/Sup_TSP_v061226.pdf"
+  }
+]
